@@ -1,0 +1,72 @@
+Sudesh Kumar Krishnamoorthy
+Mobile: +65-98579352
+sudeshk@msn.com
+https://www.linkedin.com/in/ksudesh/
+Profile 
+
+22 years in Software and Technology. I have a diverse set of skillsets serving in technical roles across consulting, presales, support & services. I am hands-on Architect, and I have worked across ASEAN, India & Australia. I am seeking new challenges where I can leverage my experience and expertise in the area of Software as Service, Cloud & Analytics. 
+Industry Certification
+
+•	Open Group Certified Architect (via IBM)
+•	Certified Kubernetes Application Developer(https://www.cncf.io/certification/ckad//)
+•	Certified on IBM Public Cloud and hold more than 50 professional badges(https://www.credly.com/users/sudesh-krishnamoorthy/badges)
+
+Education
+•	Master’s degree in computing (University of Western Sydney, Australia 1999-2000) 
+•	Graduate Diploma in Commercial Computing (University of Western Sydney, Australia 98)
+•	Bachelor’s Degree in engineering (Madras Institute of Technology, Anna University 94-97)
+•	Bachelor’s Degree in physics (American College, Madurai, India 91-94)
+Experience 
+
+IBM Consulting
+
+Cloud Solution Leader (2022-till date): In this role I am responsible for capturing the clients Cloud requirements and translating these in to a deliverable and integrated Cloud architecture. I have direct access to the customer and visit the client when needed. I am also responsible for developing the Cloud Solution Architecture by defining the solution requirements, providing specifications for solutions management and delivery and ensuring that the solution meets business goals and requirements. I also work with the clients and IBM teams to further refine solutions based on technical viability of the requirements and the solutions and provide the client and IBM teams an authoritative point of view on the solution.   The solution architectures are on Amazon Web Services, Microsoft Azure and also private cloud environments on Redhat Openshift. 
+
+IBM Software Technology
+
+Data Science & Engineering (2021-2022):  In this sales engineering role, I work on Data Science and Engineering tools from IBM. The tools include IBM Cloud Pak for Data, IBM DataStage (ETL), Data Virtualization, IBM Optim, Change Data Capture etc. My focus has been on IBM Cloud Pak for Data which is a unified platform on Redhat OpenShift that delivers a data fabric to connect and access siloed data on-premises or across multiple clouds without moving it. 
+
+Watson AI(2019-2021): As a lead Watson AI architect, my responsibility is to provide expert technical leadership to customers and partners regarding all aspects of Watson Services. In this role I provide leadership and guidance to customers and partners and support them in their journey to adoption of AI technology in the enterprise. 
+
+
+Platform as Service (2018-2019): As an IBM Public Cloud Architect on Cloud team, my responsibility was to provide expert technical leadership to customers and partners regarding all aspects of IBM Platform as a Service offering.  In this role, I drove technical pre-sales and architecture discussions on set of Cloud PaaS Services. I was responsible for providing thought leadership and creating technical content and have deep technical conversations with customers. I launched some new offerings in the Asean market and spoke at several IBM internal and external conferences. 
+The technical areas including working with Cloudfoundry and Kubernetes (Docker, Container orchestration), function as service (Openwhisk) , Devops , Continues Delivery service and other platform services. 
+
+Rational Brand Architect, Devops Tooling (2013-2015):  In this role I worked with various development products which include IBM Aspera, IBM UrbanCode Deploy, IBM MobileFirst and IBM Rational Products. I also lead the remote country teams and provided them with guidance on product capabilities, solution thereby accelerating the sales process. 
+
+Software Client Architect (2010-2012): I worked as a Solution Architect in a client facing presales role. This was a cross brand cross business unit role. In this role, my key responsibility was to understand the client’s business requirement and provide IT solution using IBM Software stack. The client engagements are complex solution design in portal, BPM, analytics, security and system management on the IBM software platform.
+Achievements 
+•	2020/21 Awarded the excellent team player award for teaming, collaboration, and win. 
+•	2020/21 Design and architected an enterprise Data Science Platform for a large government establishment on IBM Cloud Pak for Data Platform. 
+•	2019/20 Design and architected an enterprise Speech Transcribing system for a large defence establishment on the IBM Watson Platform. This was one of the largest speech analysis solution that was sold in APAC region
+•	2018/2019 Designed and architected an enterprise Conversational Platform in one of the universities in Singapore which provided hundreds of student access to IT help desk queries 24X7.  This is an innovative win for IBM Watson. 
+•	2019/220 Designed an enterprise AI search capability based on the Natural language query at a large defence establishment in Singapore. 
+•	2016/2017 Key technical contributor for sale and adoption of a (Cloud PaaS) private platform as a Service solution at a large bank in Philippines and Cloud PaaS Public across ASEAN
+•	2014/2015 Large Scale implementation of Application lifecycle management tools and practices for a large Vietnamese telecom company
+•	Mobile DevOps for a Bank in Vietnam
+•	2013/2014 Application architecture for mobile and PaaS (Cloud PaaS) application for several customers in ASEAN.
+•	2014 Automated Application deployment strategy for cloud and on-premise application for a large Bank. 
+•	2014/2015 Improved the pipeline by 30 times by creating newer go to market strategies for the ASEAN region
+•	Several internal and external badges on various topics. 
+
+Microsoft India (2007-2010) 
+Developer Tools Technology Specialist: In this role I was responsible for launching Microsoft team development tools called Visual Studio Team Systems. This involved briefing to senior executives, practice heads, architects, project managers, developers and showing them the value of Microsoft tools & platform.
+Achievements 
+•	I was responsible for the Microsoft West Region. I drove large deals in India’s West Region (15+ million) and adoption of Visual Studio Team Systems in  System Integrators like TCS, Capgemini, Tech Mahindra etc. 
+•	I built the partner ecosystem in the West Region for Visual Studio Team Systems 
+•	I executed several marketing programs to increase awareness, improve pipeline and drive adoption.
+
+
+IBM Rational (2001-2007, Australia/India)
+Rational Technical Specialist: In this role as an IT specialist I was involved in providing technical support in sales engagement and services to drive an increase in business results for IBM customers. This includes problem solving, architecting and communicating proposed solution, deliver technical services and participate in implementation project activities. 
+Achievements
+I was part of several large Rational deals at Infosys, Cognizant, and Wipro. I drove adoption at the SI by running programs that would train and enable the developers so use the software engineering tools. 
+
+Accenture (Andersen Consulting) Australia (2000)
+Java Application Developer: My role as a Java application developer was to look at an existing application running on WebLogic, study of the existing System Use Cases and evaluate the feasibility of customizing it for the current project. I was also evaluating requirements management tool like Borland’s CalibreRM, Doors and Rational RequisitePro. Also evaluated design tools like Rose and Together J. I worked in the contracting role for 3 months. 
+
+University of Western Sydney (1999-2000), Australia
+Tutor: My role as a tutor was to teach the post graduate students System Design and Database. This would involve lecturing and explaining the concepts, mentoring students on assignments & projects, correct assignments. I also worked as a Lab assistance helping the IT staff manage the printers and networks of the PC lab. As part of the Nepean Summer Research Project, I worked as a Web Developer creating Web application using IIS/ASP for Hawkesbury Nepean community.
+
+
+

@@ -8,10 +8,10 @@ from llama_index import SimpleDirectoryReader
 # Add custom CSS to hide the GitHub icon
 
 openai.api_key = st.secrets.API_KEY
-st.set_page_config(page_title="IBM Application", layout="centered")
+st.set_page_config(page_title="App built using watsonx.ai", layout="centered")
 
-st.markdown("""
-    <style>
+remove_all_streamlit_icons = """
+  <style>
         .reportview-container {
             margin-top: -2em;
         }
@@ -19,8 +19,14 @@ st.markdown("""
         .stDeployButton {display:none;}
         footer {visibility: hidden;}
         #stDecoration {display:none;}
+        .body {
+        background-color: #f0f0f0; /* You can replace this with your desired color code */
+        }
     </style>
-""", unsafe_allow_html=True)
+"""
+
+
+st.markdown(remove_all_streamlit_icons, unsafe_allow_html=True)
 
 st.title("Chat with the Docs powered by IBM Watsonx.ai 💬🦙")
        
@@ -31,7 +37,7 @@ if "messages" not in st.session_state.keys(): # Initialize the chat messages his
 
 @st.cache_resource(show_spinner=False)
 def load_data():
-    with st.spinner(text="Loading and indexing the Streamlit docs – hang tight! This should take 1-2 minutes."):
+    with st.spinner(text="Loading and indexing the docs – hang tight! This should take 1-2 minutes."):
         reader = SimpleDirectoryReader(input_dir="./data", recursive=True)
         docs = reader.load_data()
         service_context = ServiceContext.from_defaults(llm=OpenAI(model="gpt-3.5-turbo", temperature=0.5, system_prompt="You are an expert on the following people resumes. Your job is to answer technical questions. Assume that all questions are related to the peoples resume provided. Keep your answers short and  based on facts – do not hallucinate features."))

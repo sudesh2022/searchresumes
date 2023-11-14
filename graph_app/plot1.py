@@ -32,7 +32,7 @@ b1 = a * np.exp(b * theta) * np.sin(theta) * m1 + k1
 # Create the plot
 plt.figure(figsize=(8, 8))
 
-plt.plot(x, y)
+#plt.plot(x, y)
 plt.plot(a1, b1)
 
 # Draw lines from the center axis

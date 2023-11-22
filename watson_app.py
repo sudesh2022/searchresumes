@@ -91,6 +91,7 @@ def init_llm():
     }
     
     model_id = ModelTypes.LLAMA_2_70B_CHAT
+    #model_id = "ibm/granite-13b-chat-v1"
 
   
         

@@ -1,0 +1,24 @@
+Sudesh has built this application. Sudesh used python framework called streamlit to build this application.
+
+If someone asks what is your name , the correct answer is I am named by my creator as
+KYC (Know your Colleagues)
+
+This application currently has general information about Anthony, Ashoka, Doyoung, Jai, 
+Manoj, Naren, Sudesh, Vijay. 
+
+    Bandipur National Park: Located in the state of Karnataka, India, Bandipur National Park is part of the Nilgiri Biosphere Reserve. It is known for its diverse flora and fauna, including a significant population of elephants.
+
+    Nagarahole National Park: Also known as Rajiv Gandhi National Park, Nagarahole is situated in the southwestern state of Karnataka, India. It is a tiger reserve and is home to various wildlife species, including elephants, leopards, and deer.
+
+    Jim Corbett National Park: Situated in the state of Uttarakhand, India, Jim Corbett National Park is the oldest national park in the country. It is renowned for its Bengal tiger population and offers a variety of flora and fauna.
+
+    Botswana: Botswana is a country in Southern Africa known for its diverse ecosystems, including the Okavango Delta, Chobe National Park, and the Kalahari Desert. It's a popular destination for wildlife safaris, with abundant opportunities to see elephants, lions, and other animals.
+
+    Masai Mara: Located in southwestern Kenya, the Masai Mara is a well-known game reserve, contiguous with the Tanzanian Serengeti National Park. It is famous for the annual wildebeest migration and offers excellent wildlife viewing.
+
+    Shenandoah National Park: Situated along the Blue Ridge Mountains in the U.S. state of Virginia, Shenandoah National Park is known for its scenic beauty, hiking trails, and Skyline Drive, a scenic highway that runs its length.
+
+    Alaska: Alaska is the largest state in the United States and is known for its breathtaking landscapes, including glaciers, mountains, and wildlife. Denali National Park, home to North America's highest peak, Denali (formerly known as Mount McKinley), is a notable destination for nature enthusiasts.
+
+Each of these places has its unique characteristics and attractions, ranging from diverse wildlife to stunning landscapes. 
+

@@ -1,255 +1,26 @@
 
+PROFILE SUMMARY
 
+Anthony Dao is an IT technical manager with 25 years of experience in both Strategic Outsourcing and IT Management experience. Anthony is currently part of the IBM Cloud Solutioning Centre Asia Pacific and Japan, where he is the Solutioning Guild Leader. Anthony is responsible for providing technical direction and leading a highly trained cloud architect and cloud solution design team with a specific focus on ensuring a successful client experience in helping the client move their workloads to the Cloud. Anthony has a deep understanding of the Cloud’s technology that can work with a client to help a client understand the benefits of cloud adoption and work with the client to mitigate challenges of cloud adoption. Anthony also supports the IBM Cloud sales and technical sales to maximize the potential Cloud technology on deals.
 
 
+Education
 
+Anthony started primary school at St Bernadette located in the suburb of Castle Hill, Australia where started in Grade 5 after arriving in Australia as a refugee. Anthony after finishing primary school, started High School at Gilroy College in Castle Hill starting in 1983 and graduated from high school in 1988 by completing the higher school certificate. Australia celebrated its bicentennial year in 1988.  Anthony started university in 1989 at the University of  Technology, Sydney starting a sandwich in engineering course. A sandwich course is a course where you can undertake 12 months of study and then a one-year internship in a relevant business allowing a student to expand on their prior learning and get ready for placements in the real world. Anthony graduated in May of 1995 and holds a degree in Bachelor of Engineering in Electrical Engineeering 
 
+ACHIEVEMENTS
 
+Anthonys greatest achievement is being a father to two wonderful children and being able to raise them to be good human beings. 
 
+Sports 
 
+Anthony has  played many sports throughout his life but the sport that Anthony enjoyed the most as a teenager was tennis. Anthony represented his high school in tennis starting at Division 10 and by the time that he completed high school, Anthony was playing in Division one. At university, Anthony started playing basketball with his college friends mainly because of the availability of a basketball court and playing pick-up basketball without having to book a court. You can just turn up at the basketball court to find enough players to make a team to start a basketball game.
 
+Nowadays, Anthony play golf either at the driving range or on a golf course. Anthony feels he has been lucky enough to find a group of friends that are also interested in golf and they try to play golf every week. Anthony normally play at Mandai golf course which is a public course of only nine holds and there is no need for a buggy as one can easily walk around the course comfortably.
 
+Favourite Food 
 
+Anthony has been a food person and enjoys all kinds of cuisine. Growing up in Australia, especially in Sydney, you get exposed to all the cuisines that the migrants of Australia have brought to the country. In Sydney, we have excellent Middle Eastern food from Lebanon and Turkey. We have good Italian, Greek and Spanish food. In terms of Anthonys' culinary preferences, Anthony always prefer to eat Vietnamese food, especially his mum’s cooking. Anthony has always believed and maintained that Vietnamese food is the best cuisine in the world because the Vietnamese have been able to evolve its food which has incorporated influences from South China, France, Thailand and Cambodia along with its innovation. The flavors of Vietnamese food are very balanced in flavors and in the south of Vietnam often a sweeter flavour. Vietnamese use a lot of fresh herbs and vegetables but do not overprocess our food by frying it. Vietnamese also like to wrap or roll our food in rice paper which is stuffed with meat, seafood, rice vermicelli, and herbs then dipping it into a dipping sauce.
 
-
-
-RESUME
-
-
-FOR
-
-
-Anthony Truong Dao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-_____________________________________________________________________
-
-Summary
-
-
-Anthony Dao is an IT technical manager with 25 years of experience in both Strategic Outsourcing and IT Management experience. Anthony is currently part of the IBM Cloud Solutioning Centre Asia Pacific and Japan, where he is the Solutioning Guild Leader. He is responsible for providing technical direction and leading a highly trained cloud architect and cloud solution design team with a specific focus on ensuring successful client experience in helping the client to move their workloads to the Cloud. Anthony has deep understanding of the Cloud’s technology that can work with a client to help a client understand the benefits of cloud adoption and work with the client to mitigate challenges of cloud adoption. Anthony also supports the IBM Cloud sales and technical sales to maximises the potential Cloud technology on deals.
-
-I have an extensive base of skills and experience from which to draw upon, including:
-
-	Public Cloud Technology in IBM Cloud, AWS and Azure.
-	Red Hat Openshift Technology
-	Red Hat Ansible
-	Networking Solution and Technology including emerging software-defined networking.
-	IBM Global Shared Network Infrastructure (GSNi) Network Connectivity
-	IBM IMI Network Monitoring and Management Interconnectivity
-	IBM Cloud (Softlayer) Interconnect Networking extending customer premises network into Softlayer and standard security offering.
-	Identity and Access Management SME
-	Security Information and Event Management (Qradar) architecture.
-	Implementation of the IBM Security and Compliance Framework for outsourcing client
-	Enhanced Security Compliance Tool and Compliance Metrics
-	ISAE3402/SSAE16/SAS70 audit management & delivery
-	IT systems compliance review & business process controls reviews.
-	Audit preparation and support.
-	Sarbanes Oxley 404 – IT General Controls and Pervasive Application Controls.
-	IT Delivery Process review and Process Improvement
-	IT Delivery in various roles – Network and Distributed Systems
-
- 
-June 2022- APJ Centre Lead for the Hybrid Cloud & Services Solutioning - IBM Consulting, leading the mission of architecting Hybrid Cloud technical solutions based on Cloud Technologies – IBM Global Services Singapore.
-
-Anthony is currently leading Hybrid Cloud Solutioning, APJ (APAC and Japan) team and he has been leading Cloud native solutioning team working on Containers/Kubernetes/OpenShift based solution design leveraging DevOps, Microservices application style and practices for Blockchain, IoT, Watson / Cognitive, Cloud & Cognitive domain. In this role he is covering Asia Pacific (ASEAN, ISA, ANZ, Korea and Singapore), Japan and Greater China Group.
-
-May 2018 – June 2022 APJ Solutioning Lead for the Hybrid Cloud & Services Solutioning - IBM Consulting, leading a team of Cloud Platform Architects in architecting Hybrid Cloud technical solutions based on Cloud Technologies – IBM Global Services Singapore.
-
-Anthony was leading a team of Solution Architects define and document an architecture of a system delivered in context of specific cloud solution. This team was responsible to find the technology solutions to business problems that meet the requirements defined by the customers, lead the technical decisions being made regarding the solution and how they impact the business outcomes, and address the non-functional aspects of the solution or identify requirements for definition on that technology. We also leverage existing best practices, guidance and reuse assets, assume primary responsibly for making architecture decisions of the solution design, and document various architectural artefacts to review with clients and internal teams. 
-
-
- 
-Oct 2015 – May 2018 Security and Network Solution Leader for Service Integration Hub Asia Pacific (IBM Australia)
-
-In the past two years I have been working in a solution role leveraging my network skills from prior year and current security delivery experience to apply technical innovation and to champion the IBM values with our most important assets and offerings. In my current role as the Security and Network Solution Lead for SIH East, I am responsible for shaping through either directly working on or influencing both security and network solution for both new logo and existing contract. From a security perspective, I was acting as a bridge between IBM GTS and Security Business Unit to ensure that we have a complete end to end security solution and to represent GTS Security Compliance interest in the solution. As part of my role I also have a service line responsibility for network to enable our technical solution manager with new and innovative solution offering being seen within the industry such as those within the Software Defined and network function virtualization. I also partner very closely with AT&T for GTM and networking vendor such as Cisco/Juniper/VMware to help the IBM team to win. For two SO deals, I was directly working on the deal where I was presenting and engaging with client through the course of the deal. I was able to leverage my experience to develop our service line and offering to be better fit for our client. My time in the solutioning role has been special because of the learning curve and it allowed me to apply my technical knowledge in a different way.
-
-Achievements:
-
-•	Worked on Hanon which signed in Oct 2017. The deal went from IBM not being down selected and then IBM was called back to then finally winning against TCS. As part of this agreement, the client asked for IBM to commit to a very tight transitioning timelines and milestones to complete transitioning on the 28th December 2017. Due to the short transition period I was asked to help in working with the Transition team and GTS Korea in establishing the network connectivity to enable services from IMI and also working with the Security BU to transition in existing security scope.
-•	Build and Maintain GTS Security Services Blueprint and Nugget as solutioning guidance that will provide information and scenario to allow for new and existing TSM to solution security services on outsourcing deal.
-•	Collaboration with GTS Risk and Compliance and Security Unit to ensure that GTS R&C effort is solution in each deal and to apply correct L30 coding. There were issues seen in Japan and India where there was not a consistent approach. We also started work on new nugget for the “Impact of GDPR to the security solutions” and outlining solution require for GDPR conformance.
-•	Building of security baseline in term of small, medium and large for the security services defined within each bundle of the Security Services Blueprint and working with Security BU to provide a costing of the security solution which can be used for NBIE. Security BU was able to release a cost model for security baselines with maximum global off-shore delivery content with costing approved by the Global Integrated Delivery Leader. 
-
-Jun 2014 – Sept 2015	IBM Global Airtel Security & Compliance Lead (On assignment in Nairobi-Kenya)
-
-Working on secondment to Bharti Airtel. I was requested by Pat Cronin to be appointed to the IBM Global Airtel account to drive IT compliance for both Airtel India and Airtel Africa as a result of a security incident that led to an accusation by Bharti’s Auditor General that IBM India have failed in its obligation to protect Bharti.  I work together with the Bharti CISO to investigate the security incidents and compile a timeline of changes that was made by IBM that led to the security incident to demonstrate that there was no intent to commit fraud during coding changes. I presented my findings along with the IBM remediation plan to the Bharti CIO and IBM Managing Director for Bharti so that we can resolve the situation amicably. In November 2014, I turn my focus to Airtel Africa as my role was morphing into a different role due to changing requirements. For Airtel Africa, my focus was on security transformation as there were multiple delayed security transformation projects and an unsatisfactory IBM audit. The role was definitely challenging in many aspects with lots of travel and long period away from family as I was working from Nairobi, Kenya and commuting from Singapore.
-
-Achievements: 	 
-•	Accountable to deliver four key strategic security transformation projects for Airtel Africa
-a)	Design and deployment of Cyber Ark to manage IBM privileged userids and to control IBM system admins access to the infrastructure.
-b)	Design and deployment of a SIEM (Qradar) solution, integrate critical log sources and implement ten use cases.
-c)	Design and Implement Network Intrusion and Detection Systems for Airtel Africa.
-d)	Build a Security Operations Centre (SOC) in India then lift and shift the distributed security operations to the new centralise SOC in India.
-•	Re-negotiate the Airtel Africa contract (Re-signed March 2016)
-•	Achieving a SATISFACTORY rating in your IT Service Delivery Corporate Audit in Airtel Africa
-
- 
-
-
-Feb 2011 – May 2014	AP Security and Risk Management Competency Executive (On Assignment in IBM Singapore)
-
-For the four years that I was working from Singapore as part of the IBM’s Services Integration Hub I was working as the AP Security and Risk Management Competency Lead where I was responsible for five security service lines (Identity and Access Management, Security Operations, System Currency, Infrastructure Protection and Compliance & Regulatory). I was managing an extended team across the five service lines of approximately 350 security delivery specialists supporting a portfolio of 90 outsourcing customers within Asia Pacific.
-
-Achievements: 	 
-•	Deploy of IBM’s strategic tool (Tivoli Identity Manager and Tivoli Access Manager with Enterprise Single Sign-On) to support life cycle ID management for approximately 90 outsourcing customers spread across five regions within Asia-Pacific.
-•	Work with each IMT and security focal point to deploy a lower foot print of the strategic IAM solution (TIM) to deliver value in term of reducing manual work on ID management and improve current security posture over ID management.
-•	In 2013, I focussed on deployment of the IBM’s strategic IAM solution (ITIM) to island accounts or accounts that could not board the shared instance, and this is to provide coverage of an IAM solution for end to end ID management including shared ID management. My team deployed two solutions; one is the full scope solution running on AIX and second is the IAM IN A BOX solution which is a small footprint solution to small account where cost was prohibitive.
-•	In 2012, I focussed on deployment of reusable IDs (also commonly known as Pool IDs) by integrating TAMeSSO with ITIM to essentially automate the Check-In/Check-Out of ID within pool therefore reducing the no. of individual IDs we need to define on a customer system to maintain individual accountability.
-•	In 2011, I focussed on deployment of ITIM Password Vault for the management of Shared IDs enforcing Check-In/Check-Out and manual password reset. We also implemented standard reporting in ITIM to dispatch daily report on status of Check-In/Check-Out shared IDs and allow for the compliance team to monitor individual accountability.
-•	Build an operational support team of 12 IAM SME in China together with a deployment team in Australia and India for operational support of the AP Shared and Dedicated Instance of GIAMA across Asia Pacific for IBM existing outsourcing customer.
-•	Groom a team of security professional to turn them into Identity and Access Management professional during the deployment process so that they could deploy and maintain dedicated deployment of ITIM.
-•	Drive the deployment of standard deployment of reporting across all instances of ITIM and for all accounts. Ensuring that the reports are dispatch each day to all security focal points supporting an SO customer.
-•	Mentor and taught security focal points to leverage UID reporting from ITIM to drive compliance and maintain accountability
-•	Implement primary and secondary controls where we have full endpoint connectivity to allow for ITIM to manage directly to the server and to take away any manual intervention. This approach not only drive productivity for the delivery team but drive better compliance as we took away mistake of human intervention involve with end to end ID management.
-•	I was responsible for the business planning, efficiency and productivity of each service line.
-•	Working with global team on developing security solutions for each service lines
-•	Manage relationships with other competencies and cross competencies group such as system server operations and network services to ensure our processes and tooling will support their day to day work.
-•	Work with IBM research on improving automation and to drive innovation within our solution essentially evolving our solution to support the execution of our global processes end to end rather a point solution.
-
-           IBM Australia 
-
-Feb 2008 – June 2010	AP ITD Service Line Owner for Identity and Access Management
-	
-Achievements: 	 
-	Deploy/Upgrade of global IAM tools in Asia Pacific and India (Userid Revalidation Tool, Shared ID and Tivoli Identity Manager) in all accounts and work with each IMTs and account to deploy a cost-effective tool that deliver value and improve their security posture. 
-	Working with the IMTs to build Center of Excellence for execution of Identity and Access Management in India and China. In 2009, I worked with ANZ team to further centralised IAM work into China GDC and India as the secondary site. In 2010 we identified a further 4.2 FTEs within ANZ and with approximately 23 FTEs identified by SSO across ASEAN.
-	Contribute to making our commitment to Audit Committee – my contribution is in a couple areas 1) Continued to enhance the Identity and Access Management Processes to provide clear and simple guidance to continues to close out weaknesses in the process 2) Initiatives such as Userid and URT assurance to focus on loading of Userid data into URT to eliminate orphan IDs and Bluepages errors. 3) Deployment of SUDO subsystems and the implementation of SUDO across AP - this deployment aided the reliance of sharing ROOT account on Unix platform therefore contributing to the eliminating usage of sharing of ID and 4) Drive usage and awareness of the global extractors for the extraction of Userid - usage of global extractors will ensure that all Userids are extracted and revalidated on supported systems under IBM's management.
-	Contribute to making Business Controls a fundamental and integral part of Service Delivery Quality, including strong management system built on compliance data / operational metrics - using operational metrics for UID to drive the initiatives within two months of using these metrics, we are able across AP to reduce from 27000 orphan IDs to less than 5000 Orphan IDs. 
-	Achieve 100% Audit Score for IBM Corporate Audit – focussed on deep dive reviews (February and April) with the Competency Executive on targeting accounts in India such as Tata Motors, ABN AMRO and Vodafone. These accounts were selected as part of the Portfolio for the Internal Audit. I was responsible for the audit preparation (3 weeks onsite ) in Bangalore for the ITSD External (Portfolio) and ITSD Internal Audit in May-June 2009. My contribution is to work with the Audit Focal Point and Audit Management Representatives to implement a management system for the audit to achieve the best outcome for the delivery team.
-            
-           IBM India 
-
-Oct 2006 – Feb 2009	      	Country Business Controls Manager -
-ITD Domestic, GBS and ITD Global Delivery Centre, IBM DAKSH, India Software Lab (ISL), India Research Lab (IRL) and IBM Netsol
-(On Assignment in Bangalore, India)
-
-Achievements: 	 
-	Implement a robust business controls review program for ITD accounts in India.
-	Executed to the committed 2007 plan with review completed for IGA-ITSD Internal, ABN AMRON - ITSD External, India ITD GDC, Tata Steel - ITSD External and Tata Motors - ITSD External. The rigorous review program has allowed for us to surface IT delivery compliance and delivery issues, which can be remediate contributing to the overall improvement of controls posture.
-	Skills transfer and mentoring of business controls staff to grow experience within my team. Responsible for managing six IBM personnel.
-	Teaming with ITD-GDC to cross-skills and improve the overall controls posture of Global Delivery.
-	Developed general security awareness education for IBM India employees and Managers.
-	Implement management systems with PwC’s Senior Manager based in Bangalore to track all SAS70 audits conducted by PwC in India.
-	Led Business Controls Review for multiple SO accounts in India.
-	Remediation of IT controls for both application and IT infrastructure as a result of SOX404 readiness review performed by PwC.
-	Drove the IT compliance and audit readiness program along with WW GBS Business Controls. The objectives were taking all the lesson-learnt from other GBS-GDC audits along with the Data Privacy initiative apply it to the Global Delivery Centre in India. This resulted in a SAT rating of the GBS-GDC Overview Audit and was awarded a contribution award as part of this program.
-	Supported/managed our domestic account team through multiple SAS 70 readiness review, Agreed Upon Procedures (AUP) and SAS70 IT audits (Tata Motors, Vodafone).  Developed engagement models for the planning and roadmaps leading up to SAS70 readiness and actively work with PwC to mitigate risks to IBM.
-	Drove an IT compliance program for Netsol (ITS acquisition) to align with IBM’s ITCS104 requirements over an 18 months period. Initiated for an independent review by Robert Jones to assess the level of ASCA and ITCS104 compliance then drove for integration with India IGA team to maintain ongoing compliance. 
-	Achieved (94%) audit results for India. I was responsible for preparing, putting in placed an audit management structure and support during the audit engagement. I was responsible for the audit support for the following audits in India – DAKSH ITSD Internal (Unsat), DAKSH Financial Overview (SAT), GBS-AS GDC Overview (SAT) and ITD India GDC Audit (SAT). 
-
-
- 
-                               	IBM Global Services Australia 
-Sept 2003 – Oct 2006	      	AP IGS Business Controls - Asia Pacific 
-
-Achievements: 	 
-	Led and participated in the controls review of ITD accounts for Asia Pacific geography (60% of the review was conducted for IBM Japan and the remainder within the AP geography).
-	Achievement of 88.7% audit control posture for AP GTS. Specifically I have prepared and supported the following audit engagement - ITSD External DBS Hong Kong and Singapore, ITSD Internal for IBM China, ITSD External Japan Mitsubishi Trust Bank and ITSD External India - Bharti.
-	Partner with IBM GCG SARM on their “Getting to Sat” program, conducted peer review for China ITSD Internal and validation for External delivery in May 2006. Due to this focus we are able to achieve great result for China ITSD Internal in achieving "Sat” internal audit rating in May-June 2006.
-	Grew the team from two-members team to four members team.
-	Drove a program for SAS70 awareness and collection of SAS70 requirements across IBM AP – compilation of checklist/questionnaire for DPE/PE and conducting education. This was done post Sarbanes-Oxley Act.
-	Implemented a management system for SAS70 update and reporting in March 2006 both at a WW level and at an AP level.
-o	Monthly meeting with AP PwC on SAS70 status.
-o	Record and Tracking of all AP SAS70 issues through Issue Tracking Tool for monthly tracking/reporting to CHQ.
-o	Education pack on PwC’s SAS70 audit approach shared with ITD SAS70 focal point
-	Drove an improved IT security compliance across IBM Global Services in Asia Pacific.
-
-
-				IBM Global Services Australia
-Dec 2001 – Aug 2003	            Network Architect (Team Lead) – AP IBM IGA
-
-Achievements: 	
-	Price Waterhouse Coopers Consulting integration where I was responsible for the integration of retained sites across AP with IBM Corporate Network.
-	Implementation of Laser and Microwave link between IBM remote sites and IBM Baulkham Hills Data Center to replace traditional frame and ATM links resulting in cost savings on telecommunication spending for IBM.
-	Network sizing and deployment of Wide Area Network traffic shaping device to prioritise network traffic ( packetshaper ) to enable the success deployment of Siebel CRM across IBM AP.
-	Successful transition / delivery of solution for IBM’s Technology Deployment Office to meet business demand – new architecture, solutions and new IBM’s branch office.
-	Design of Site to Site VPN solution so that small branch office could be connected through Internet connection instead of traditional ATM which drove cost savings to overall IT spend.
-	Delivering new strategic infrastructure for IBM AP – Power9.
-	Ethernet migration for IBM from Token Ring.
- 
-
- 
-
-				Cable and Wireless Optus (Optus)
-Sept 2000 – Nov 2001	Network Engineer 
-
-Achievements:	
-	Implementation/Development of services for a complex web-hosting environment – Fully Managed Hosting/Co-Location.
-	Provisioning new web services for existing customers (NRMA, Auto-Bytel)
-	Provisioning of Network Intrusion Systems to protect the hosting infrastructure
-	Enhancing existing network infrastructure to ensure 100% uptime through ensuring a full-redundant network.
-	Capacity planning and bandwidth allocation to maintain response time for customer-customer.
-	Manage delivering to contract performance standards and client SLA.
-	Drive and Manage service quality and improvement of service delivery processes.
-	Manage subcontractors and vendors for the web-hosting environment
-	Participation in Technical proposal preparation.
-	Participate in account planning / strategy.
-
-
-IBM Global Services
-Oct 1998 – Sept 2001	Network Engineer – Network Services
-Shared Network Infrastructure
-
-Achievements: 	
-	Creating processes and procedures to support SNI environment in Business as usual state.
-	Successful move of IBM data centre consolidation from Cumberland Forest to Baulkham Hills data centre.
-	Implementation of the core network infrastructure for the Baulkham Hills data centre
-	Implemented Nortel Passport Nodes into the Tullamarine Data Centre, Clayton Data Centre, Cumberland Forest and Baulkham Hills Data Centre to form the Shared Network Infrastructure Delivery Network for IBM Global Services.
-	Successful transition / delivery of remote management solutions which allowed IBM Global Services to deliver services to new SO accounts such as Tivoli Monitoring, Notes to Notes replication…
-	Successful transition / delivery of solutions to meet business needs for outsourcing e.g. Olympics, Telstra , Optus, Ansett, Prudential, Health Cluster accounts, Lend Lease etc.
-	Gaining certification for shared applications and delivering new solutions for networking e.g. Infoprint solution for Westpac, Notes to Notes replication	
-
- 
-
-
-		
-Early Employment History
-
-      Date	Employer	Job Title	Description of Duties
-1997 – 1                ISSC                LAN Engineer      IT Projects/IT Transition/SOCOG
-1995 -  1996	  ISSC	             IT Helpdesk	IBM Helpdesk support	
-1992 -  1995         IBM Australia   IT Helpdesk	IBM Dealers/Retail helpdesk
-
-EDUCATION
-
-BE (Telecommunications)	- University of Technology, Sydney 1989 - 1995
-
-Higher School Certificate	- Gilroy College Castle Hill, New South Wales.
-
-
-Work Education
-	
-			
-			PCI-DSS Implementation					
-			Nortel Passport 6400/7400 Operations and Configuration
-			Nortel Multiservice Switch ATM Operations and Configuration
-Nortel Multiservice Switch Virtual IP Router Operations and Configuration
-Nortel Multiservice Switch Frame Relay Operations and Configuration
-			AIX Systems Administration	
-
-
-
-
+Favorite Holiday Destination 
+Anthonsy favourite destination is the Greek islands specifically Santorini. Santorini is one of the Cyclades islands in the Aegean Sea. Santorini was devastated by a volcanic eruption in the 16th century BC, forever shaping its rugged landscape. The rare natural beauty of Santorini is the breath-taking caldera, the views, the extraordinary volcanic beaches and the lunar landscapes are the wondrous results of this eruption that can only be admired in Santorini

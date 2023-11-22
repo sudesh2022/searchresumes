@@ -1,7 +1,29 @@
-import streamlit as st 
+import openai
+import streamlit as st
+from openai import OpenAI
+openai.api_key = st.secrets.API_KEY
 
-col1, col2, col3 = st.columns(3)
+client = OpenAI(
+   api_key=openai.api_key,
+ )
 
-col1.title("Upload your files ")
+response = client.chat.completions.create(
+  model="gpt-4-vision-preview",
+  messages=[
+    {
+      "role": "user",
+      "content": [
+        {"type": "text", "text": "What’s in this image?"},
+        {
+          "type": "image_url",
+          "image_url": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gfp-wisconsin-madison-the-nature-boardwalk.jpg/2560px-Gfp-wisconsin-madison-the-nature-boardwalk.jpg",
+          },
+        },
+      ],
+    }
+  ],
+  max_tokens=300,
+)
 
-x=col1.file_uploader("Upload your documents ")
+print(response.choices[0])

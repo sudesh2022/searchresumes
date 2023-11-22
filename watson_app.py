@@ -1,5 +1,5 @@
 import streamlit as st
-from utils import *
+
 import torch
 from llama_index.embeddings import LangchainEmbedding
 from llama_index import (GPTVectorStoreIndex, SimpleDirectoryReader, LLMPredictor, ServiceContext)

@@ -1,6 +1,6 @@
 PROFILE SUMMARY/About Yourself 
 
-Vijay also known as Vijay has 24 years’ experience in Enterprise Infrastructure Design, Solution Architecture and Cloud Solution & Integration. Vijay has a strong Technical Project Management, Transformation and Transition of customer Data center and Team Management experience. And his specialities are Hyperscalers like AWS, Azure, Google and IBM cloud, EMC, IBM & VMware products, Management & Orchestration for Cloud Environment, Virtualization Architecture, Data center Consolidation, Data center Management, Technical presales, BC & DR setup, Backup. Setting up Proof of Concepts to demonstrate the product capability, Team Management & Team Player and evolving every day in the ever-changing world.
+Vijay has 24 years’ experience in Enterprise Infrastructure Design, Solution Architecture and Cloud Solution & Integration. Vijay has a strong Technical Project Management, Transformation and Transition of customer Data center and Team Management experience. And his specialities are Hyperscalers like AWS, Azure, Google and IBM cloud, EMC, IBM & VMware products, Management & Orchestration for Cloud Environment, Virtualization Architecture, Data center Consolidation, Data center Management, Technical presales, BC & DR setup, Backup. Setting up Proof of Concepts to demonstrate the product capability, Team Management & Team Player and evolving every day in the ever-changing world.
 
 Education
 

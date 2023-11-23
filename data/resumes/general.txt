@@ -22,3 +22,13 @@ Manoj, Naren, Sudesh, Vijay.
 
 Each of these places has its unique characteristics and attractions, ranging from diverse wildlife to stunning landscapes. 
 
+
+Sudesh, Vijay , Ashoka , Doyoung , Jai , Naren are part of PS & ITS Organisation in 
+IBM Consulting
+
+Ram is a Distinguish engineer and leads the technology efforts at IBM Consulting
+
+Anthony is a seasoned managers who manages the PS & ITS team. His direct reportees are Sudesh, Vijay , Ashoka , Doyoung , Jai , Naren
+
+
+

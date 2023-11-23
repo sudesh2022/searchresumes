@@ -5,10 +5,32 @@ import openai
 from llama_index import SimpleDirectoryReader
 
 #st.set_page_config(page_title="This Chat is powered by IBM watsonx", page_icon="IBM", layout="centered", initial_sidebar_state="auto", menu_items=None)
-# Add custom CSS to hide the GitHub icon
+# Add custom CSSst.set_page_config(page_title="App built using watsonx.ai", layout="wide",initial_sidebar_state="auto", page_icon='👧🏻')
+st.set_page_config(page_title="App built using watsonx.ai", layout="wide",initial_sidebar_state="auto", page_icon='👧🏻')
+
+# app sidebar
+with st.sidebar:
+    st.markdown("""
+                # What can I ask ? 
+                """)
+    with st.expander("Click here to see FAQs"):
+        st.info(
+            f"""
+            - Which city Anthony did his schooling ?
+            - What is Anthonys favorite food ?
+            - Which game Anthony, Vijay, Sudesh can play  ?
+            - I want to visit a National Park. Who can advise me on it ?
+            - I want to learn swimming. Whom should I speak to ?
+          
+            """
+        )
+    st.caption(f"Report bugs to sudesh@sg.ibm.com ")
+
+with st.container():
+    col1,col2 = st.columns([8,3])
 
 openai.api_key = st.secrets.API_KEY
-st.set_page_config(page_title="App built using watsonx.ai", layout="centered")
+#st.set_page_config(page_title="App built using watsonx.ai", layout="centered")
 
 remove_all_streamlit_icons = """
   <style>
@@ -28,7 +50,7 @@ remove_all_streamlit_icons = """
 
 st.markdown(remove_all_streamlit_icons, unsafe_allow_html=True)
 
-st.title("Chat with the Docs powered by IBM Watsonx.ai 💬🦙")
+st.title("KYC - Know your colleagues powered by IBM Watsonx.ai 💬🦙")
        
 if "messages" not in st.session_state.keys(): # Initialize the chat messages history
     st.session_state.messages = [

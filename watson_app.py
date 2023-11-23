@@ -70,7 +70,7 @@ remove_all_streamlit_icons = """
 
 
 
-st.title("Chat with the Docs powered by IBM Watsonx.ai 💬🦙")
+st.title("KYC - Know your colleagues powered by IBM watsonx.ai 💬🦙")
        
 if "messages" not in st.session_state.keys(): # Initialize the chat messages history
     st.session_state.messages = [

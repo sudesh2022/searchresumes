@@ -86,7 +86,7 @@ def load_data():
         Sudesh, Anthony, Jai, Ashoka, Naren, Manoj, Doyoung, Vijay are people who are part of a team. When someone ask for example who is Vijay, summarize their profile. Answer any other questions based on the data provided. Assume that all questions are based on the information provided. Keep your answers short and  based on facts – do not hallucinate.
         '''
 
-        service_context = ServiceContext.from_defaults(llm=OpenAI(model="gpt-3.5-turbo", temperature=0.5, system_prompt=prompt))
+        service_context = ServiceContext.from_defaults(llm=OpenAI(model="gpt-3.5-turbo", temperature=0.0, system_prompt=prompt))
         index = VectorStoreIndex.from_documents(docs, service_context=service_context)
         return index
 
